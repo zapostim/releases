@@ -12,7 +12,7 @@
     "version": "0.0.2"
   },
   "darwin-x64-prod": {
-    "update": "https://github.com/zapostim/releases/releases/download/darwin-x64-prod-v0.0.5/release.json",
-    "version": "0.0.5"
+    "update": "https://github.com/zapostim/releases/releases/download/darwin-x64-prod-v0.0.6/release.json",
+    "version": "0.0.6"
   }
 }
