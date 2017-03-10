@@ -12,8 +12,8 @@
     "version": "0.0.2"
   },
   "darwin-x64-prod": {
-    "update": "https://github.com/zapostim/releases/releases/download/darwin-x64-prod-v0.0.10/release.json",
-    "install": "https://github.com/zapostim/releases/releases/download/darwin-x64-prod-v0.0.10/zapo-product-0.0.10.dmg",
-    "version": "0.0.10"
+    "update": "https://github.com/zapostim/releases/releases/download/darwin-x64-prod-v0.0.11/release.json",
+    "install": "https://github.com/zapostim/releases/releases/download/darwin-x64-prod-v0.0.11/zapo-product-0.0.11.dmg",
+    "version": "0.0.11"
   }
 }
