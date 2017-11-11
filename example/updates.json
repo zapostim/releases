@@ -14,5 +14,10 @@
     "update": "https://github.com/zapostim/releases/releases/download/darwin-x64-prod-v0.0.3/release.json",
     "install": "https://github.com/zapostim/releases/releases/download/darwin-x64-prod-v0.0.3/zapo-product-0.0.3.dmg",
     "version": "0.0.3"
+  },
+  "win32-ia32-prod": {
+    "update": "https://github.com/zapostim/releases/releases/download/win32-ia32-prod-v0.0.9",
+    "install": "https://github.com/zapostim/releases/releases/download/win32-ia32-prod-v0.0.9/zapo-product.Setup.0.0.9.exe",
+    "version": "0.0.9"
   }
 }
